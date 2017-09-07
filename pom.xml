@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>kafka-metrics</artifactId>
 	<name>Kafka metric set</name>
-	<groupId>com.turn.kafka.metrics</groupId>
+	<groupId>com.turn</groupId>
 	<version>1.0.3</version>
 	<packaging>jar</packaging>
 	<description>
